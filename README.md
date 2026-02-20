@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Hariprasanth 👋
 
-<!--
-**hariprasanth04-04/hariprasanth04-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Integrated M.Tech (Software Engineering) | 2027 Batch  
+💻 Java Developer | Backend & AI Security Enthusiast  
+☁️ Exploring Cloud Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I focus on building secure, scalable backend systems with strong foundations in Java and Data Structures.  
+
+Currently working on AI security projects related to prompt injection and jailbreak detection in LLMs.
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- Data Structures & Algorithms
+- SQL
+- Flask
+- PyTorch
+- Git & GitHub
+
+---
+
+## 🔐 Featured Project
+
+### Prompt Defender  
+AI-based multi-layered detection system for identifying jailbreak and prompt injection attacks in Large Language Models.  
+
+✔ 94.7% Detection Accuracy  
+✔ 0% False Positive Rate  
+✔ 44ms Average Response Time  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: (Add your LinkedIn link here)
