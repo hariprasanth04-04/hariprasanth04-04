@@ -39,4 +39,4 @@ AI-based multi-layered detection system for identifying jailbreak and prompt inj
 
 ## 📫 Connect With Me
 
-LinkedIn: (Add your LinkedIn link here)
+LinkedIn: www.linkedin.com/in/hariprasanth-shanmugam-4434a7335www.linkedin.com/in/hariprasanth-shanmugam-4434a7335
